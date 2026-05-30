@@ -45,9 +45,9 @@ Ciascuna tappa prevederà un check point con relativo quiz/enigma da superare pe
 
 Il gioco prevederà 2 modalità principali:
 
-* **Modalità Base**, enigma semplice adatta a famiglie e bambini
-* **Modalità Competitiva**, enigma più complicati che richiedono discussioni di gruppo
+* **Modalità Base**, enigmi semplici adatti a famiglie e bambini
+* **Modalità Competitiva**, enigmi più complicati che richiedono discussioni di gruppo
 
 ---
 
-*Progetto che vinto l'Hackathon HILL - Habitat in Living Landscape · Monte di Malo*
+*Progetto che ha vinto l'Hackathon HILL - Habitat in Living Landscape · Monte di Malo*
